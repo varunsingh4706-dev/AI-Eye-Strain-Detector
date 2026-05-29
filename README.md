@@ -1,16 +1,74 @@
-# React + Vite
+# AI Eye Strain Detector
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered eye strain detection and wellness monitoring system that uses Computer Vision and MediaPipe to monitor blink rate, screen distance, and session duration in real time.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Real-time webcam monitoring
+* Face landmark detection using MediaPipe
+* Blink rate tracking
+* Eye strain risk assessment
+* Posture distance monitoring
+* Session duration tracking
+* Wellness alerts and break reminders
+* Interactive analytics dashboard
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* Vite
+* JavaScript
+* MediaPipe
+* Tailwind CSS
+* Computer Vision
 
-## Expanding the ESLint configuration
+## System Workflow
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Capture webcam feed
+2. Detect facial landmarks
+3. Extract eye region data
+4. Calculate blink rate
+5. Estimate viewing distance
+6. Analyze eye strain indicators
+7. Generate alerts and recommendations
+8. Display analytics dashboard
+
+## Screenshots
+
+### Dashboard
+
+(Add dashboard screenshot here)
+
+### Camera Feed
+
+(Add camera feed screenshot here)
+
+### Analytics
+
+(Add analytics screenshot here)
+
+## Project Objectives
+
+* Detect unhealthy screen usage habits
+* Encourage regular eye breaks
+* Monitor blink frequency
+* Improve digital wellness awareness
+* Reduce risk of eye strain caused by prolonged screen exposure
+
+## Future Enhancements
+
+* Mobile application support
+* Cloud analytics
+* Personalized AI recommendations
+* Advanced posture detection
+
+## Authors
+
+* Varun Singh
+* Sachin Kumar
+* Vijay Anil Nadarge
+* Khusi Shelke
+
+## License
+
+Academic Project
