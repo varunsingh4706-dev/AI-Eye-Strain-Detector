@@ -42,11 +42,13 @@ An AI-powered eye strain detection and wellness monitoring system that uses Comp
 
 ### Camera Feed
 
-(Add camera feed screenshot here)
+(<img width="1089" height="675" alt="Screenshot 2026-05-29 190313" src="https://github.com/user-attachments/assets/9b6371f8-3e88-4365-bd1a-c5875795b649" />
+)
 
 ### Analytics
 
-(Add analytics screenshot here)
+(<img width="1116" height="754" alt="Screenshot 2026-05-29 190442" src="https://github.com/user-attachments/assets/6a1dd67d-56bb-41fc-9ea2-04e37ae508d1" />
+)
 
 ## Project Objectives
 
