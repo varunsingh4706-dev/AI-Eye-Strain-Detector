@@ -70,7 +70,7 @@ An AI-powered eye strain detection and wellness monitoring system that uses Comp
 * Varun Singh
 * Sachin Kumar
 * Vijay Anil Nadarge
-* Pruthviraj Vaghela
+* Khushi Shelke
 
 ## License
 
