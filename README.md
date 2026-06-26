@@ -68,7 +68,7 @@ An AI-powered eye strain detection and wellness monitoring system that uses Comp
 ## Authors
 
 * Varun Singh
-* Sachin Kumar
+* Sachin Kumarr
 * Vijay Anil Nadarge
 * Pruthviraj Vaghela
 
